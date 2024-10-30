@@ -1,0 +1,160 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(214, 233, 240);
+}
+#fieldset_1{
+    width: 70%;
+    height: 230px;
+    background-color: white;
+    margin-left: 13%;
+    margin-top: 10%;
+    border-radius: 10px;
+    border: none;
+}
+#div_1{
+    width: 50%;
+    height: 100%;
+    /* background-color: brown; */
+
+    float: left;
+}
+#google_icon{
+    width: 25px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#sign_in_text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 25px;
+    font-weight: normal;
+}
+#statement{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    margin-left: 30px;
+    margin-top: 9px;
+    color: rgb(52, 50, 50);
+}
+#div_2{
+    width: 50%;
+    height: 100%;
+    /* background-color: blueviolet; */
+    float: right;
+}
+#fieldset_2{
+    width: 85%;
+    height: 30px;
+    /* background-color: white; */
+    margin-left: 25px;
+    margin-top: 25%;
+    border-radius: 3px;
+    border: 1px solid royalblue;
+}
+#legend_content{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9px;
+    color: royalblue;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+}
+#input{
+    width: 96%;
+    height: 9px;
+    padding-left: 5px;
+    border: none;
+    outline: none;
+}
+#email_button{
+    margin-left: 25px;
+    font-size: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    color: rgb(12, 55, 183);
+    background-color: transparent;
+    border-radius: 5px; 
+    padding: 0px 2px 1px 2px;
+}
+#email_button:hover{
+    background-color: rgb(214, 233, 240);
+}
+#not_statement{
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: -5px;
+    font-size: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(73, 66, 66);
+    
+}
+#learn_link{
+    font-size: 8px;
+    text-decoration: none;
+    color: rgb(9, 45, 154);
+}
+#learn_link:hover{
+    text-decoration: underline;
+}
+
+#create_account{
+    width: 80px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 130px;
+    font-size: 9px;
+    border: none;
+    background-color: transparent;
+    border-radius: 20px;
+    color: rgb(12, 58, 197);
+}
+#next_button{
+    /* border: 10px solid blue; */
+    height: 30px;
+    width: 65px;
+    font-size: 9px;
+    color: white;
+    background-color: royalblue;
+    border-radius: 20px;
+    border: none;
+}
+#create_account:hover{
+    background-color: rgb(214, 233, 240);
+}
+#drop_down{
+    width: 130px;
+    height: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 8px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: rgb(70, 70, 70);
+    margin-left: 110px;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+#drop_down:hover{
+    background-color: rgb(232, 231, 231);
+}
+.buttons{
+    font-size: 9px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 15px;
+    border: none;
+    background-color: transparent;
+    color: rgb(95, 95, 95);
+    padding: 5px;
+    border-radius: 5px;
+}
+#help_button{
+    margin-left: 40%;
+}
+.buttons:hover{
+    background-color: rgb(233, 232, 232);
+}
